@@ -1,4 +1,4 @@
-# Basi-di-Dati-project
+# Progetto di Basi di Dati
 Progetto sviluppato nell'ambito dell'esame di Basi di Dati dell'anno accademico 2017/2018 tenuto durante il Corso di Laurea in Ingegneria Informatica presso l'Università di Pisa.
 Era richiesta la progettazione e il design del backend di un'applicazione per la gestione di un’azienda di mobilità intelligente.
 In particolare era richiesto il popolamento del database in modo che le query pensate possano dare un risultato significativo. 
